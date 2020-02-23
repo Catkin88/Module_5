@@ -1,0 +1,21 @@
+
+ p1 {color: red}
+  p2  {color:blue;}
+  p3 {color: green}
+  p4 {font-size: larger;}
+  p5 {font-size: small;}
+  p6 {text-align: center;}
+  p7 {font-weight: bold;}
+  p8 {font-family: cursive;}
+  p9 {font-size: x-large;} 
+ p9 {color: orange}
+  p9 {font-weight: bolder;}
+  
+p.styledFont {color:purple}  
+p.styledFont {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+img {
+  width: 650px;
+  padding: 5px;
+  border:1px solid green ;
+}
